@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="description" content="Assignment 1 Page 1 Alleman">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Assignment 1</title>
+</head>
+<body>
+ <ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="interests.html">Interests</a></li>
+  <li><a href="map.html">Travel</a></li>
+  </ul>
+
+  <hr>
+  <br>
+  <p>My name is Joshua J. Alleman, and I am currently a Senior 
+  in CRP at Iowa State University in Ames, Iowa.<p>
+  <p>Through this course I hope to learn the basics of coding 
+  and how it can be applied to GIS and my career.<p>
+</html>

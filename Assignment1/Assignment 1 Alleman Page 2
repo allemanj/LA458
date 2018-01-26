@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="description" 
+      content="Assignment 1 Page 2 Alleman">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Assignment 1</title>
+</head>
+<body>
+ <ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="interests.html">Interests</a></li>
+  <li><a href="map.html">Travel</a></li>
+  </ul>
+
+  <hr>
+  <br>
+  <p>I enjoy Cartography and Geography. 
+    I draw maps in my freetime for fun.<p>
+  <img src="https://www.globe.gov/documents/21785181/0/EclipseTrack.png/5234b3ef-0fff-4893-88c3-64d3976a0e12?t=1494455122624"
+  <p>Image source: globe.gov<p>
+</html>

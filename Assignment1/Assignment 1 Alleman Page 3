@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="description" 
+      content="Assignment 1 Page 3 Alleman">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Assignment 1</title>
+</head>
+<body>
+ <ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="interests.html">Interests</a></li>
+  <li><a href="map.html">Travel</a></li>
+  </ul>
+
+  <hr>
+  <br>
+  <p>A place I have long wanted to visit is Japan.<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Provinces_of_Japan.svg"
+  <p>Image source: https://commons.wikimedia.org/wiki/File:Provinces_of_Japan.svg<p>
+</html>
